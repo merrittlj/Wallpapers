@@ -1,19 +1,7 @@
-# DJHero2903's Wallpaper Collection
-
-## Where Did I Get These?
-
-- [Imgur](http://imgur.com),
-- [DistroTube's Wallpaper Repository](https://gitlab.com/dwt1/wallpapers),
-- [The Computer Clan's Website](https://thecomputerclan.com/),
-- [The Clone Hero Discord Server](https://discord.gg/Hsn4Cgu),
-- [Wallhaven](https://wallhaven.cc/),
-- [Various Subreddits](https://www.reddit.com/),
-- Default wallpaper packages from various Linux distributions,
-- Default Windows wallpapers,
-- Google Images.
+A very large collection of wallpapers from a variety of sources/GitHub repositories. Folders are based off of the repository owner's usernames. Some wallpapers may be removed(ex: anime wallpapers) as I didn't like them or they didn't apply to me.
 
 ## Ownership
 
-Because I downloaded most of these from sites like Imgur, I have no way of knowing if there is a copyright on these images.
+I have no way of knowing if there is a copyright on these images.
 
 If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it.
